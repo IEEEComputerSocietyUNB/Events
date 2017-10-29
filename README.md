@@ -88,3 +88,10 @@ This is a register of all events made or helped by CS. The types of events (tran
 23/10 - T - Coding Dojo<br>
 
 25/11 - T - Coding Dojo<br>
+
+### Detalhes dos eventos
+
+* Reunião geral: encontro de todos os integrantes da CS, com o intuito de discutir questões administrativas e financeiras.
+* Reuniões de projeto: encontro de todos os integrantes do projeto em questão, para discussão administrativa e/ou técnica.
+* Reunião administrativa: encontro de todos os integrantes da administração da CS, para resolver questões administrativas, financeiras e ténicas
+* Coding Dojo: projeto voltado à programação sem requisitos, aberto a todos.
