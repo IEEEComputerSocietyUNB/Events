@@ -98,6 +98,7 @@ This is a register of all events made or helped by CS. The types of events (tran
 
 03/05 - N - Tech Talk<br>
 05/05 - T - Coding Dojo<br>
+11/05 - N - Apresentação CS para pós graduandos<br>
 11/05 - N - Tech Talk<br>
 
 09/06 - T - Coding Dojo<br>
