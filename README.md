@@ -69,7 +69,6 @@ This is a register of all events made or helped by CS. The types of events (tran
 ## 2/2017
 
 02/06 - AT - 9a Reunião UnBQuest<br>
-07/09 - AT - 10a Reunião UnBQuest<br>
 10/06 - T - Dojo Day 2017<br>
 13/06 - A - 1a Reunião da Administração CS<br>
 16/06 - AT - 11a Reunião UnBQuest<br>
@@ -83,11 +82,26 @@ This is a register of all events made or helped by CS. The types of events (tran
 25/07 - A - 1a Reunião de Gerentes CS<br>
 28/07 - AT - 14a Reunião UnBQuest<br>
 
+07/09 - AT - 10a Reunião UnBQuest<br>
+
 16/10 - N - Meetup com presidente da CS Prof. Jean-Luc Gaudiot<br>
 17/10 - T - SPARTA: A Dataflow-Inspired System Design pelo Prof. Jean-Luc Gaudiot<br>
 23/10 - T - Coding Dojo<br>
 
 25/11 - T - Coding Dojo<br>
+
+## 1/2018
+
+04/04 - N - Processo Seletivo Chatbot<br>
+22/04 - T - 1a Reunião Geral Chatbot<br>
+30/04 - N - Reunião Chatbot com prof. Sérgio<br>
+
+03/05 - N - Tech Talk<br>
+05/05 - T - Coding Dojo<br>
+11/05 - N - Tech Talk<br>
+
+09/06 - T - Coding Dojo<br>
+
 
 ### Detalhes dos eventos
 
